@@ -1,5 +1,5 @@
 # Small_Projects
-This repository contains a collection of small web development projects built using HTML, CSS, and JavaScript ,with more projects being added regularly to enhance and showcase my web development skills.
+This repository contains a collection of small web development projects built using HTML, CSS, and JavaScript ,with more projects being added to enhance and showcase my web development skills.
 
 
 ## 1. Tic Tac Toe Game
@@ -8,3 +8,9 @@ A simple yet interactive Tic Tac Toe game where two players can compete against 
 
 ### Live Demo:-
 [Project Link](https://tic-tac-toe-ayushfand.netlify.app/)
+
+## 2. Rock Paper Scissors
+This is a simple Stone-Paper-Scissors game built using HTML, CSS, and JavaScript. It allows users to play the classic game against the computer. The user selects one of the three options (Stone, Paper, or Scissors), and the computer randomly generates its choice. The winner is determined based on the standard rules of the game. The interface is designed to be user-friendly and interactive.
+
+### Live Demo:-
+[Project Link](https://stone-paper-scissors-ayushfand.netlify.app/)
