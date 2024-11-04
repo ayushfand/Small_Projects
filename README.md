@@ -14,3 +14,13 @@ This is a simple Stone-Paper-Scissors game built using HTML, CSS, and JavaScript
 
 ### Live Demo:-
 [Project Link](https://stone-paper-scissors-ayushfand.netlify.app/)
+
+## 3. Javascript Drum Kit:-
+A fun, interactive virtual drum kit built using HTML, CSS, and JavaScript. This project allows users to play different drum sounds by pressing keys on their keyboard.
+
+## How to Use
+1. Open the live demo link.
+2. Use your keyboard keys to play the drums!
+
+### Live Demo:-
+Check out the live version on Netlify: [Virtual Drum Kit](https://js-drum-ayush.netlify.app/)
