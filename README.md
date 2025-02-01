@@ -24,3 +24,9 @@ A fun, interactive virtual drum kit built using HTML, CSS, and JavaScript. This 
 
 ### Live Demo:-
 Check out the live version on Netlify: [Virtual Drum Kit](https://js-drum-ayush.netlify.app/)
+
+## 4. Text Chanter
+In this project I learned about SpeechSynthesis function(object) in Js. 
+
+### Live Demo:-
+[Project link](https://ayush-text-to-voice.netlify.app/)
